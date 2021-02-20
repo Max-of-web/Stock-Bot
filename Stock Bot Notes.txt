@@ -1,0 +1,8 @@
+Bot use case #1
+Generate a list of interesting stocks 
+
+Stocks must have 5 or more of the last 10 recommendations 
+as "Overweight" on Yahoo! Finance
+
+Stocks must have 3 buy indicators for weekly and daily technical indicators 
+on Investing.com
