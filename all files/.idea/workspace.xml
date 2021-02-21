@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dad62e5-2ba3-4a8d-a2ff-c4ca035168ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NewsAnalyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsAnalyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsAnalyzer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stock Bot Useful Links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Bot Useful Links.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

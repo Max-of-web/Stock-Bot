@@ -39,11 +39,13 @@ for ticker, news_table in news_tables.items():
 
 df = pd.DataFrame(parsed_data, columns=['ticker', 'date', 'time', 'title'])
 
+
 vader = vaderSentiment()
 
 f = lambda title: vader.polarity_scores(title)['compound']
 df['compound'] = df['title'].apply(f)
 df['date'] = pd.to_datetime(df.date).dt.date
+df.to_csv(path_or_buf='all news.csv',index=True)
 
 plt.figure(figsize=(10,8))
 mean_df = df.groupby(['ticker', 'date']).mean().unstack()
