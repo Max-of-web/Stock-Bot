@@ -1,0 +1,18 @@
+,Ticker,technical_indicator,value,signal,Date,Firm,To Grade,From Grade,Action
+0,BIDU,RSI(14),87.257,overbought,2021-02-18 14:57:34,Mizuho,Buy,,main
+1,BIDU,"STOCH(9,6)",65.96,buy,2021-02-10 13:40:20,Barclays,Overweight,,main
+2,BIDU,STOCHRSI(14),99.752,overbought,2021-02-09 14:39:37,China Renaissance,Buy,Hold,up
+3,BIDU,"MACD(12,26)",46.2,buy,2021-02-08 17:32:26,Mizuho,Buy,,main
+4,BIDU,ADX(14),61.934,buy,2021-02-01 16:58:06,Oppenheimer,Outperform,,main
+5,BIDU,Williams %R,-2.694,overbought,2021-01-14 16:45:26,JP Morgan,Overweight,,main
+6,BIDU,CCI(14),161.9744,buy,2021-01-14 10:25:28,KeyBanc,Overweight,,main
+7,BIDU,ATR(14),30.7958,high_volatility,2020-11-18 08:50:54,KeyBanc,Overweight,,main
+8,BIDU,Highs/Lows(14),111.2799,buy,2020-11-04 11:59:37,Barclays,Overweight,Equal-Weight,up
+9,BIDU,Ultimate Oscillator,71.442,overbought,2020-10-26 08:49:30,KeyBanc,Overweight,,main
+10,BIDU,ROC,134.071,buy,2020-09-25 08:46:06,KeyBanc,Overweight,,main
+11,BIDU,Bull/Bear Power(13),153.836,buy,2020-09-08 10:41:22,Morgan Stanley,Equal-Weight,Overweight,down
+0,Summary,,,,,,,,
+0,BIDU,,7.0,buy,2021-02-18 14:57:34,,Buy,3,
+1,BIDU,,1.0,high_volatility,2020-09-08 10:41:22,,Equal-Weight,1,
+2,BIDU,,4.0,overbought,,,Outperform,1,
+3,BIDU,,,,,,Overweight,7,

@@ -32,4 +32,18 @@ json_object = json.dumps(dictionary, indent = 4)
   
 # Writing to sample.json 
 with open("sample.json", "w") as outfile: 
-    outfile.write(json_object) 
+    outfile.write(json_object)
+
+Exporting Pandas.DataFram to csv
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+
+Taking Input in Python
+https://www.geeksforgeeks.org/taking-input-in-python/
+
+CountIfs in Python
+https://medium.com/@amzdec/from-excel-to-python-how-to-do-countifs-with-pandas-3bd8e44411f6
+
+Google Sheets connection in Pythonhttps://gspread.readthedocs.io/en/latest/oauth2.html
+
+Natural Language sentiment analysis trained on news articles
+https://www.nltk.org/api/nltk.sentiment.html
