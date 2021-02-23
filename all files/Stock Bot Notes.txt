@@ -6,3 +6,20 @@ as "Overweight" on Yahoo! Finance
 
 Stocks must have 3 buy indicators for weekly and daily technical indicators 
 on Investing.com
+
+If you don't like the color of your code, press Ctrl+Shift+A, type Jump, and click Jump to Colors and Fonts.
+You will be taken to the settings page where you can modify the color of the code element at the caret.
+
+Commenting and uncommenting lines of code
+Do one of the following:
+
+On the main menu, choose Code | Comment with Line Comment.
+
+Press Ctrl+/.
+
+Commenting and uncommenting blocks of code
+To add or remove a block comment, do one of the following:
+
+On the main menu, choose Code | Comment with Block Comment.
+
+Press Ctrl+Shift+/.

@@ -1,7 +1,7 @@
 import investpy
 import pandas as pd
-import json 
-import random
+# import json
+# import random
 import yfinance as yf
 
 ticker = input("Enter ticker: ")
