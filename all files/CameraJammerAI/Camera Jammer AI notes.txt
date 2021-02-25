@@ -1,0 +1,1 @@
+A device which scans the room for cameras and can identify even hidden cameras with AI or ML and jams them by shining a strong IR light at them.
